@@ -1,6 +1,6 @@
 spongebob-mock-gen
 
-imgplaceholder
+![mAkE MeMeS](https://github.com/kayteh/spongebob-mock-gen/raw/master/assets/example.jpg)
 
 very naive approaches to writing text over an image of spongedude
 
